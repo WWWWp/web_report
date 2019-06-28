@@ -21,9 +21,11 @@
 ### 网站安全监控
 ![image]https://github.com/WWWWp/web_report/blob/master/image/wordfence%E7%9B%91%E6%8E%A7.jpg()
 ### 站长工具
-
+![image](https://github.com/WWWWp/web_report/blob/master/image/zhanzhang.jpg)
 - 百度站长工具
+![image](https://github.com/WWWWp/web_report/blob/master/image/baidu.jpg)
 - bing站长工具
+![image](https://github.com/WWWWp/web_report/blob/master/image/bing.jpg)
 ### SEO优化
 -  
 - 

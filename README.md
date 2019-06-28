@@ -17,14 +17,13 @@
 2. [文章图片以及段落采用“脉冲”效果](http://wp115.me/2019/06/26/game-king/)，提醒读者注意重点。
 ## 云端网站管理
 ### 云端架站，域名正常
-- picture
+![image](https://github.com/WWWWp/web_report/blob/master/image/web.jpg)
 ### 网站安全监控
-- picture
+![image]https://github.com/WWWWp/web_report/blob/master/image/wordfence%E7%9B%91%E6%8E%A7.jpg()
 ### 站长工具
+
 - 百度站长工具
-- picture
 - bing站长工具
-- picture
 ### SEO优化
 -  
 - 

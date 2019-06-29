@@ -3,7 +3,7 @@
 - 该网站的内容主要是关于现在网络较流行的几款游戏的分析，目前已有《王者荣耀》、《地下城与勇士》、《英雄联盟》几款游戏的内容分析，目的在于通过这些分析，得出现在网络游戏的一个发展方向。文章内容的缺点在于部分数据缺失，收集量较大。
 - 网站地图
 ![image](https://github.com/WWWWp/web_report/blob/master/image/pic.jpg)
-## 图片
+## 图片使用
 - 除了架站教程，该网站的图片均来源于网络，并且在文章末尾有表明转载何处。
 ## 架站文章
 - [教程 | 架站流程①：申请github education pack](http://wp115.me/2019/06/08/step1/)
@@ -19,21 +19,44 @@
 ### 云端架站，域名正常
 ![image](https://github.com/WWWWp/web_report/blob/master/image/web.jpg)
 ### 网站安全监控
-![image]https://github.com/WWWWp/web_report/blob/master/image/wordfence%E7%9B%91%E6%8E%A7.jpg()
-### 站长工具
+![image](https://github.com/WWWWp/web_report/blob/master/image/wordfence%E7%9B%91%E6%8E%A7.jpg)
+### 网站性能
+- 
+### 网站备份
+-
+## 站长工具
+### 站长认证
 ![image](https://github.com/WWWWp/web_report/blob/master/image/zhanzhang.jpg)
 - 百度站长工具
 ![image](https://github.com/WWWWp/web_report/blob/master/image/baidu.jpg)
 - bing站长工具
 ![image](https://github.com/WWWWp/web_report/blob/master/image/bing.jpg)
 ### SEO优化
--  
-- 
-- 
+#### 优化1：申请bing站长工具为例
+- 申请bing站长工具
+![image](https://github.com/WWWWp/web_SEO/blob/master/image/bing_03.jpg)
+- 出现问题：网站在搜索引擎上被屏蔽
+![image](https://github.com/WWWWp/web_SEO/blob/master/image/bing_01.jpg)
+- 如何解决：在WordPress SEO仪表盘上修改,取消勾选【搜索引擎监视性】
+![image](https://github.com/WWWWp/web_SEO/blob/master/image/bing_02.jpg)
+#### 优化2：
+#### 优化3：
+
 ## 用户研究
+- 录音文件
 ### 用户访谈
-- 
-- 
+#### 问题设置
+- 网站的颜色布局；
+- 网站的页面布局；
+- 文章排版是否需要改进；
+#### 访谈结果
+- 访谈人群选择中大南方在校生，涉及专业均为网络与新媒体。
+- 颜色方面，该网站以黑色背景搭配白色字体，以及亮金色按钮，但100%的用户觉得==页面整体黑色，偏灰暗，让人看着不舒服。==
+- 页面布局方面，80%的用户建议改善页面布局，其中用户Y建议==右侧小工具侧栏区域划分不明显，当文章内容文字内容较多时，易混淆（以首页为例），建议可用颜色区块划分。==
+- 文章排版方面，大部分用户对==文字大小==提出了建议。
 ### A/B测试
-- 
-- 
+#### A：“文章内容”页面不使用SiteOrigin布局排版
+#### B：“文章内容”页面使用SiteOrigin布局排版
+#### 测试结果
+- 用户H测试的是A。内容布局==相对简单，没有特色。==
+- 用户Y测试的是B。在A的基础上改进页面，添加SiteOrigin轮播效果，用户给出了==文章切换的交互按钮太小，希望可以调整样式，或选择其他轮播图小工具==的建议。

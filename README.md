@@ -51,7 +51,10 @@ id | game |time | state | requirement
 ### 网站性能
 - 
 ### 网站备份
--
+- 登录winSCP
+![image](https://github.com/WWWWp/web_report/blob/master/image/php.jpg)
+- wp-config本地截图&插件备份
+![image](https://github.com/WWWWp/web_report/blob/master/image/php_download.jpg)
 ## 站长工具
 ### 站长认证
 ![image](https://github.com/WWWWp/web_report/blob/master/image/zhanzhang.jpg)

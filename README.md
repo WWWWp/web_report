@@ -43,7 +43,7 @@ id | game |time | state | requirement
 2. [文章图片以及段落采用“脉冲”效果](http://wp115.me/2019/06/26/game-king/)，提醒读者注意重点。
 ## 云端网站管理
 ### 云端架站
-- 域名正常
+- [域名正常](http://wp115.me)
 ![image](https://github.com/WWWWp/web_report/blob/master/image/web.jpg)
 ### 网站安全监控
 - 使用Wordfence安全监控

@@ -49,7 +49,8 @@ id | game |time | state | requirement
 - 使用Wordfence安全监控
 ![image](https://github.com/WWWWp/web_report/blob/master/image/wordfence%E7%9B%91%E6%8E%A7.jpg)
 ### 网站性能
-- 
+- site27X4网站性能测试截图
+![image](https://github.com/WWWWp/web_report/blob/master/image/xingneng.jpg)
 ### 网站备份
 - 登录winSCP
 ![image](https://github.com/WWWWp/web_report/blob/master/image/php.jpg)

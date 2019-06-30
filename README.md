@@ -72,10 +72,10 @@ id | game |time | state | requirement
 ![image](https://github.com/WWWWp/web_SEO/blob/master/image/bing_02.jpg)
 #### 优化2：bing提交sitemap，索引量先上升后下降再上升
 - 原因：可能是抓取错误导致索引量降低
-![image]()
+![image](https://github.com/WWWWp/web_report/blob/master/image/bing_suoy.jpg)
 #### 优化3：更改页面关键词，但索引量并没什么变化
 - 原因：可能是更改时间较短，短时间内看不出效果；可能是关键词不够突出
-![image]()
+![image](https://github.com/WWWWp/web_report/blob/master/image/SEO_key.jpg)
 
 ## 用户研究
 - [录音文件](https://github.com/WWWWp/web_report/tree/master/record)
@@ -91,11 +91,12 @@ id | game |time | state | requirement
 - 文章排版方面，大部分用户对**文字大小**提出了建议。
 ### A/B测试
 #### A：“文章内容”页面不使用SiteOrigin布局排版
-![image]()
+![image](https://github.com/WWWWp/web_report/blob/master/image/A.jpg)
 #### B：“文章内容”页面使用SiteOrigin布局排版
-![image]()
+![image](https://github.com/WWWWp/web_report/blob/master/image/B.jpg)
 #### 测试结果
 - 用户H测试的是A。内容布局**相对简单，没有特色。**
 - 用户Y测试的是B。在A的基础上改进页面，添加SiteOrigin轮播效果，用户给出了**文章切换的交互按钮太小，希望可以调整样式，或选择其他轮播图小工具**的建议。
 ### 定制化
-- 
+- 结合A/B测试结果，修改布局。**使用轮播，并且将内容放大。**
+![image](https://github.com/WWWWp/web_report/blob/master/image/B_1.jpg)
